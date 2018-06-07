@@ -1,2 +1,2 @@
 # shiny_demo
- a Git demo
+ A fine Git demo
